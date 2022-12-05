@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eilonmore/linkedin-private-api.git"
+    "url": "https://github.com/busshi/linkedin-private-api.git"
   },
-  "homepage": "https://github.com/eilonmore/linkedin-private-api",
+  "homepage": "https://github.com/busshi/linkedin-private-api",
   "files": [
     "dist"
   ],
