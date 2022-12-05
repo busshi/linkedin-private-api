@@ -1,4 +1,4 @@
-**[linkedin-private-api](../README.md)**
+**[@busshi/linkedin-private-api](../README.md)**
 
 > [Globals](../globals.md) / "src/entities/linkedin-invitation.entity"
 
@@ -20,4 +20,4 @@
 
 • `Const` **INVITATION\_TYPE**: \"com.linkedin.voyager.relationships.invitation.Invitation\" = "com.linkedin.voyager.relationships.invitation.Invitation"
 
-*Defined in [src/entities/linkedin-invitation.entity.ts:13](https://github.com/eilonmore/linkedin-private-api/blob/d17dc2a/src/entities/linkedin-invitation.entity.ts#L13)*
+*Defined in [src/entities/linkedin-invitation.entity.ts:13](https://github.com/busshi/linkedin-private-api/blob/f1b6b7b/src/entities/linkedin-invitation.entity.ts#L13)*

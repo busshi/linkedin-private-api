@@ -1,8 +1,8 @@
-**[linkedin-private-api](README.md)**
+**[@busshi/linkedin-private-api](README.md)**
 
 > Globals
 
-# linkedin-private-api
+# @busshi/linkedin-private-api
 
 ## Index
 

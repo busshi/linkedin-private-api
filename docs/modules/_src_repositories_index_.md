@@ -1,4 +1,4 @@
-**[linkedin-private-api](../README.md)**
+**[@busshi/linkedin-private-api](../README.md)**
 
 > [Globals](../globals.md) / "src/repositories/index"
 
